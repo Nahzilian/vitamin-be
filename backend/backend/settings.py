@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'vitamindata',
-        'USER': '####',
-        'PASSWORD':'#######',
+        'USER': '',
+        'PASSWORD':'',
         'HOST':'localhost',
         'PORT':'3306'
     }

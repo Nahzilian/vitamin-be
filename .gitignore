@@ -7,4 +7,4 @@ local_settings.py
 backend/manage.py
 .env
 db.sqlite3
-backend/backend/settings.py
+settings.py
