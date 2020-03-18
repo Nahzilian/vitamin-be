@@ -8,4 +8,4 @@ backend/manage.py
 .env
 db.sqlite3
 
-backend/
+backend/backend/settings.py
